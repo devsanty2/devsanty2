@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEYUS1_8asdJA/profile-displaybackgroundimage-shrink_350_1400/B56Zo2DGHmJsAY-/0/1761843376026?e=1764201600&v=beta&t=oKjgdfhYRDRBGZDVzSS_FoFt_UHTqygSb133V_zb3D4">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQEYUS1_8asdJA/profile-displaybackgroundimage-shrink_350_1400/B56Zo2DGHmJsAY-/0/1761843376026?e=1764201600&v=beta&t=oKjgdfhYRDRBGZDVzSS_FoFt_UHTqygSb133V_zb3D4](https://media.licdn.com/dms/image/v2/D5616AQEd9_4sWfblRQ/profile-displaybackgroundimage-shrink_350_1400/B56Zro7dfhLMAY-/0/1764844493625?e=1767830400&v=beta&t=MuCmvjNzYd5ak3DF7Gg3jqwt6BG2WUU05YFao0fUoVY)">
 <h3 align="center">Creative Web Designer, Developer, and WordPress Specialist. Helping businesses and creators build stunning Functional websites. Passionate about Turning Ideas Into Digital Reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsanty2&label=Profile%20views&color=0e75b6&style=flat" alt="devsanty2" /> </p>
