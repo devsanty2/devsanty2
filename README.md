@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEYUS1_8asdJA/profile-displaybackgroundimage-shrink_350_1400/B56Zo2DGHmJsAY-/0/1761843376026?e=1764201600&v=beta&t=oKjgdfhYRDRBGZDVzSS_FoFt_UHTqygSb133V_zb3D4">
-<h3 align="center">Creative Web Designer ,Developer and WordPress Specialist. Helping Business and creators Build stunning Functional websites. Passionate about Turnning Ideas Into Digital Reality.</h3>
+<h3 align="center">Creative Web Designer, Developer, and WordPress Specialist. Helping businesses and creators build stunning Functional websites. Passionate about Turning Ideas Into Digital Reality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsanty2&label=Profile%20views&color=0e75b6&style=flat" alt="devsanty2" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/devsanty2](https://github.com/devsanty2)
 
-- 💬 Ask me about **Web design web development and wordPress development**
+- 💬 Ask me about **Web design, web development, and WordPress development**
 
 - 📫 How to reach me **infosantya@gmail.com**
 
